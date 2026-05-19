@@ -1,0 +1,90 @@
+{
+  "people": [
+    {
+      "name": "Aditya",
+      "totalPaid": 300.0
+    },
+    {
+      "name": "Shubham",
+      "totalPaid": 1200.0
+    },
+    {
+      "name": "Anurag",
+      "totalPaid": 700.0
+    },
+    {
+      "name": "Rahul",
+      "totalPaid": 1800.0
+    },
+    {
+      "name": "Priya",
+      "totalPaid": 900.0
+    },
+    {
+      "name": "Arjun",
+      "totalPaid": 2700.0
+    }
+  ],
+  "expenses": [
+    {
+      "paidBy": "Rahul",
+      "amount": 600.0,
+      "description": "Dinner"
+    },
+    {
+      "paidBy": "Priya",
+      "amount": 300.0,
+      "description": "Auto"
+    },
+    {
+      "paidBy": "Arjun",
+      "amount": 900.0,
+      "description": "Movies"
+    },
+    {
+      "paidBy": "Aditya",
+      "amount": 300.0,
+      "description": "500 stationary"
+    },
+    {
+      "paidBy": "Shubham",
+      "amount": 1200.0,
+      "description": "travel"
+    },
+    {
+      "paidBy": "Anurag",
+      "amount": 700.0,
+      "description": "food"
+    },
+    {
+      "paidBy": "Rahul",
+      "amount": 600.0,
+      "description": "Dinner"
+    },
+    {
+      "paidBy": "Priya",
+      "amount": 300.0,
+      "description": "Auto"
+    },
+    {
+      "paidBy": "Arjun",
+      "amount": 900.0,
+      "description": "Movies"
+    },
+    {
+      "paidBy": "Rahul",
+      "amount": 600.0,
+      "description": "Dinner"
+    },
+    {
+      "paidBy": "Priya",
+      "amount": 300.0,
+      "description": "Auto"
+    },
+    {
+      "paidBy": "Arjun",
+      "amount": 900.0,
+      "description": "Movies"
+    }
+  ]
+}
